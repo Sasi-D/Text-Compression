@@ -7,7 +7,6 @@ To execute follow the commands in terminal(both linux and windows do note that y
 for compressing inputFile.txt use the commands:
 
     $ g++ encode.cpp sourceCode.cpp -o main
-    
     $ ./main inputFile.txt compressedFile.huf
 
 The required compressed file is stored in compressedFile.huf.
